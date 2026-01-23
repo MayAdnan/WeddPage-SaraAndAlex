@@ -1,0 +1,6 @@
+@Wedd_Page_SaraAndAlex_HostAddress = http://localhost:5243
+
+GET {{Wedd_Page_SaraAndAlex_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
